@@ -1,0 +1,3 @@
+[submodule "oxygen-sdk"]
+    path = extern/oxygen-sdk
+    url = https://github.com/dewetron/oxygen-sdk
